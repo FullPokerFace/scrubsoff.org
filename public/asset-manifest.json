@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec4d3e20.chunk.css",
+    "main.js": "/static/js/main.9d45ee83.chunk.js",
+    "main.js.map": "/static/js/main.9d45ee83.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c012fedc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c012fedc.js.map",
+    "static/js/2.afe5298c.chunk.js": "/static/js/2.afe5298c.chunk.js",
+    "static/js/2.afe5298c.chunk.js.map": "/static/js/2.afe5298c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ec4d3e20.chunk.css.map": "/static/css/main.ec4d3e20.chunk.css.map",
+    "static/js/2.afe5298c.chunk.js.LICENSE.txt": "/static/js/2.afe5298c.chunk.js.LICENSE.txt",
+    "static/media/arkadiy_s.cab9397b.jpg": "/static/media/arkadiy_s.cab9397b.jpg",
+    "static/media/burger-menu.8284aafe.svg": "/static/media/burger-menu.8284aafe.svg",
+    "static/media/facebook-icon.d3c5aed5.svg": "/static/media/facebook-icon.d3c5aed5.svg",
+    "static/media/fundraiser-bar.60687e58.svg": "/static/media/fundraiser-bar.60687e58.svg",
+    "static/media/img-1.871627a1.jpg": "/static/media/img-1.871627a1.jpg",
+    "static/media/instagram-icon.37926af4.svg": "/static/media/instagram-icon.37926af4.svg",
+    "static/media/logo.eabcd194.svg": "/static/media/logo.eabcd194.svg",
+    "static/media/share-facebook-solid.6d0b070f.svg": "/static/media/share-facebook-solid.6d0b070f.svg",
+    "static/media/share-instagram-solid.1f459dfe.svg": "/static/media/share-instagram-solid.1f459dfe.svg",
+    "static/media/share-twitter-solid.8dd0d439.svg": "/static/media/share-twitter-solid.8dd0d439.svg",
+    "static/media/share-youtube-solid.ca20af95.svg": "/static/media/share-youtube-solid.ca20af95.svg",
+    "static/media/global.css": "/static/media/showcase-img.ba78f232.jpg",
+    "static/media/twitter-icon.7dcf19dd.svg": "/static/media/twitter-icon.7dcf19dd.svg",
+    "static/media/vardan_m.da2ee636.jpg": "/static/media/vardan_m.da2ee636.jpg",
+    "static/media/youtube-icon.4d8bb2e1.svg": "/static/media/youtube-icon.4d8bb2e1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c012fedc.js",
+    "static/js/2.afe5298c.chunk.js",
+    "static/css/main.ec4d3e20.chunk.css",
+    "static/js/main.9d45ee83.chunk.js"
+  ]
+}
