@@ -1,0 +1,40 @@
+@media screen and (min-width: 850px) {
+  .burger-menu {
+    display: none;
+  }
+
+  .mobile-flex-direction-switch {
+    flex-direction: row !important;
+  }
+
+  .mobile-menu-links {
+    height: 0;
+    padding: 0;
+    background-color: transparent;
+    position: static;
+    transition: 0s;
+    display: flex;
+    flex-direction: row;
+    transform: translateX(0) !important;
+
+    button {
+      background-color: transparent;
+      margin: 0 10px;
+      border-bottom: solid 2px transparent;
+      cursor: pointer;
+      white-space: nowrap;
+
+      &:not(.close):hover {
+        border-bottom: solid 2px $yellow;
+      }
+
+      &:focus {
+        outline: none;
+      }
+    }
+
+    .close {
+      display: none;
+    }
+  }
+}
